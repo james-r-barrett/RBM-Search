@@ -6,7 +6,7 @@ Usage:
 python3 RBM-search.py [fasta file] '[regex term]'
 
 Note:
-The regex term should be in the standard re format as defined [here]([url](https://docs.python.org/3/library/re.html)https://docs.python.org/3/library/re.html).
+The regex term should be in the standard re format as defined [here](https://docs.python.org/3/library/re.html).
 The term should also be quoted.
 Example:
 
